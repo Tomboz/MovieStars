@@ -7,6 +7,7 @@ namespace MovieStars
         static void Main(string[] args)
         {
             var movieStars = new List<ObjMovieStar>();
+
         }
     }
 }
