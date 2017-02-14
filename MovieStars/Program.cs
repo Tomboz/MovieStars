@@ -24,5 +24,10 @@ namespace MovieStars
         {
 
         }
+
+        public static void c()
+        {
+
+        }
     }
 }
