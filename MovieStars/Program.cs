@@ -39,5 +39,10 @@ namespace MovieStars
         {
 
         }
+
+        public static void g()
+        {
+
+        }
     }
 }
