@@ -9,6 +9,8 @@ namespace MovieStars
             var movieStars = new List<ObjMovieStar>();
 
             //Changed in master branch
+
+            //New change in master branch
         }
     }
 }
