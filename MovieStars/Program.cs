@@ -10,7 +10,9 @@ namespace MovieStars
 
             //Changed in master branch
 
-            //Changed in Branch1
+            //New change in master branch
+
+            //Chages in branch 2
         }
     }
 }
