@@ -14,40 +14,5 @@ namespace MovieStars
 
             //Chages in branch 2
         }
-
-        public static void a()
-        {
-
-        }
-
-        public static void b()
-        {
-
-        }
-
-        public static void c()
-        {
-
-        }
-
-        public static void d()
-        {
-
-        }
-
-        public static void e()
-        {
-
-        }
-
-        public static void g()
-        {
-
-        }
-
-        public static void f()
-        {
-
-        }
     }
 }
