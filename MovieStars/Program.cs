@@ -15,6 +15,11 @@ namespace MovieStars
             //Chages in branch 2
         }
 
+        public static void b()
+        {
+
+        }
+
         public static void a()
         {
 
