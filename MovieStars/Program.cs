@@ -29,5 +29,10 @@ namespace MovieStars
         {
 
         }
+
+        public static void e()
+        {
+
+        }
     }
 }
